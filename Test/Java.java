@@ -1,2 +1,5 @@
-package Test;public class Java {
+package Test;
+
+public class Java {
+
 }
